@@ -63,6 +63,7 @@
 | [**chain**](https://github.com/QuantumAI-Blockchain/chain) | Substrate SDK hybrid node — 7 custom pallets, Poseidon2 ZK hashing | Rust |
 | [**qubitcoin-qvm**](https://github.com/QuantumAI-Blockchain/qubitcoin-qvm) | Quantum Virtual Machine — EVM-compatible L2 with quantum opcodes | Go |
 | [**qubitcoin-aether**](https://github.com/QuantumAI-Blockchain/qubitcoin-aether) | Aether Tree AGI — knowledge graph, consciousness tracking, reasoning | Python |
+| [**stratum-server**](https://github.com/QuantumAI-Blockchain/stratum-server) | Stratum v2 mining pool server for VQE quantum mining | Rust |
 
 ### Ecosystem
 
