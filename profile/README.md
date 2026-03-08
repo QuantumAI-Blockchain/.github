@@ -13,8 +13,9 @@ Quantum Blockchain is a post-quantum Layer 1 blockchain whose native currency is
 | **L3** | [qubitcoin-aether](https://github.com/QuantumAI-Blockchain/qubitcoin-aether) | On-chain AGI — knowledge graph, consciousness tracking, Proof-of-Thought |
 | **Stablecoin** | [qubitcoin-qusd](https://github.com/QuantumAI-Blockchain/qubitcoin-qusd) | QUSD fractional reserve stablecoin with multi-chain peg keeper |
 | **Frontend** | [qubitcoin-frontend](https://github.com/QuantumAI-Blockchain/qubitcoin-frontend) | qbc.network — React 19 + Next.js 15 |
-| **Contracts** | [solidity-contracts](https://github.com/QuantumAI-Blockchain/solidity-contracts) | 62 verified Solidity contracts for QVM |
+| **Contracts** | [solidity-contracts](https://github.com/QuantumAI-Blockchain/solidity-contracts) | 57 verified Solidity contracts for QVM |
 | **Docs** | [whitepaper](https://github.com/QuantumAI-Blockchain/whitepaper) / [docs](https://github.com/QuantumAI-Blockchain/docs) | Whitepapers, SDK guides, API reference |
+| **Governance** | [improvement-proposals](https://github.com/QuantumAI-Blockchain/improvement-proposals) | QIPs — formal protocol change proposals |
 | **Infra** | [monitoring](https://github.com/QuantumAI-Blockchain/monitoring) | Prometheus + Grafana monitoring stack |
 
 ### Key Numbers
