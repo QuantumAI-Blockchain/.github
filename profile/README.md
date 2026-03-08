@@ -2,19 +2,19 @@
 
 # Quantum Blockchain
 
-### Physics-Secured Digital Assets with On-Chain AGI
+### Physics-Secured Digital Assets with On-Chain AI
 
 [![Website](https://img.shields.io/badge/Website-qbc.network-00ff88?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHBhdGggZD0iTTEyIDJMMiAyMmgyMEwxMiAyeiIgZmlsbD0iIzAwZmY4OCIvPjwvc3ZnPg==)](https://qbc.network)
 [![License](https://img.shields.io/badge/License-MIT-7c3aed?style=for-the-badge)](LICENSE)
 [![Chain ID](https://img.shields.io/badge/Chain_ID-3301-f59e0b?style=for-the-badge)](https://qbc.network)
 
-**Qubitcoin (QBC)** is a post-quantum Layer 1 blockchain that combines quantum computing, supersymmetric economics, and artificial general intelligence into a unified protocol.
+**QuantumAi Blockchain (QBC)** is a post-quantum Layer 1 blockchain that combines quantum computing, supersymmetric economics, and artificial general intelligence into a unified protocol.
 
 ---
 
 </div>
 
-## What Makes Qubitcoin Different
+## What Makes QuantumAi Blockchain Different
 
 | | Feature | Description |
 |---|---------|-------------|
