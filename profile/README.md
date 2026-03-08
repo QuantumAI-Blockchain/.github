@@ -1,6 +1,6 @@
 <div align="center">
 
-# Quantum Blockchain
+# QuantumAi Blockchain
 
 ### Physics-Secured Digital Assets with On-Chain AI
 
