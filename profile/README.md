@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-qbc.network-00ff88?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHBhdGggZD0iTTEyIDJMMiAyMmgyMEwxMiAyeiIgZmlsbD0iIzAwZmY4OCIvPjwvc3ZnPg==)](https://qbc.network)
 [![License](https://img.shields.io/badge/License-MIT-7c3aed?style=for-the-badge)](LICENSE)
-[![Chain ID](https://img.shields.io/badge/Chain_ID-3301-f59e0b?style=for-the-badge)](https://qbc.network)
+[![Chain ID](https://img.shields.io/badge/Chain_ID-3303-f59e0b?style=for-the-badge)](https://qbc.network)
 
 **QuantumAi Blockchain (QBC)** is a post-quantum Layer 1 blockchain that combines quantum computing, supersymmetric economics, and artificial general intelligence into a unified protocol.
 
@@ -30,7 +30,7 @@
 ```
                     ┌──────────────────────────────────────┐
                     │          qbc.network (Frontend)       │
-                    │       React 19 + Next.js 15 + 3D      │
+                    │       React 19 + Next.js 16 + 3D      │
                     └──────────────────┬───────────────────┘
                                        │
                     ┌──────────────────▼───────────────────┐
@@ -91,13 +91,13 @@
 | Block Time | 3.3 seconds |
 | Initial Reward | 15.27 QBC |
 | Halving Interval | ~1.618 years (golden ratio) |
-| Chain ID | 3301 (mainnet) / 3302 (testnet) |
+| Chain ID | 3303 (mainnet) / 3304 (testnet) |
 | Consensus | Proof-of-SUSY-Alignment (4-qubit VQE) |
 | Signatures | CRYSTALS-Dilithium5 (NIST Level 5) |
 | P2P Encryption | ML-KEM-768 + AES-256-GCM |
 | EVM Opcodes | 155 standard + 10 quantum + 2 AGI |
 | Smart Contracts | 57 deployed (QBC-20, QBC-721, bridges, QUSD) |
-| Codebase | 200,000+ LOC across 5 languages |
+| Codebase | 290,000+ LOC across 5 languages |
 
 ## Technology Stack
 
@@ -108,8 +108,8 @@
 | QVM | Go (production) / Python (prototype) |
 | Quantum Engine | Qiskit (VQE, SUSY Hamiltonians) |
 | Post-Quantum Crypto | pqcrypto (Dilithium5, ML-KEM-768) |
-| Frontend | React 19, Next.js 15, TailwindCSS 4, Three.js |
-| Database | CockroachDB v24.2.0 |
+| Frontend | React 19, Next.js 16, TailwindCSS 4, Three.js |
+| Database | CockroachDB v25.2.12 |
 | Smart Contracts | Solidity (OpenZeppelin) |
 | Monitoring | Prometheus + Grafana + Loki |
 
